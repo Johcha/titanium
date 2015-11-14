@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: hanzi to pinyin
+author: johcha
+license: Copyright 2015 icoolboy.
+copyright: icoolboy
+
+# these should not be edited
+name: HanZiToPinYin
+moduleid: com.app.hanzitopinyin
+guid: dab97f48-da01-4c0a-bb13-9b30f7047031
+platform: iphone
+minsdk: 4.0.0.GA

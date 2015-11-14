@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/Util/openssl_wrapper.m \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/Util/openssl_wrapper.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/rsa.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/asn1.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/e_os2.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/opensslconf.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/bio.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/crypto.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/stack.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/safestack.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/opensslv.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/ossl_typ.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/symhacks.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/bn.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/pem.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/evp.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/objects.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/obj_mac.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/x509.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/buffer.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/ec.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/ecdsa.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/ecdh.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/dsa.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/dh.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/sha.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/x509_vfy.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/lhash.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/pkcs7.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/pem2.h \
+  /Users/johcha/workspace/app/app/mimipapabaralipay/iphone/Classes/openssl/md5.h

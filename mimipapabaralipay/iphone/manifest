@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+description: mimipapabaralipay
+author: johcha
+license: Specify your license
+copyright: icoolboy
+
+# these should not be edited
+name: mimipapabaralipay
+moduleid: com.mimipapabar.alipay
+guid: a1da631e-d2b4-44da-823d-215edd9d368d
+platform: iphone
+minsdk: 5.0.2.GA

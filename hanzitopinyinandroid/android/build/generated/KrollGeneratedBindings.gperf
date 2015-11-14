@@ -1,0 +1,18 @@
+%define lookup-function-name lookupGeneratedInit
+%define class-name HanzitopinyinandroidBindings
+%{
+
+#include <string.h>
+#include <v8.h>
+#include <KrollBindings.h>
+
+#include "com.app.hanzitopinyin.HanzitopinyinandroidModule.h"
+#include "com.app.hanzitopinyin.ExampleProxy.h"
+
+
+%}
+struct titanium::bindings::BindEntry;
+%%
+com.app.hanzitopinyin.HanzitopinyinandroidModule, ::com::app::hanzitopinyin::HanzitopinyinandroidModule::bindProxy, ::com::app::hanzitopinyin::HanzitopinyinandroidModule::dispose
+com.app.hanzitopinyin.ExampleProxy, ::com::app::hanzitopinyin::hanzitopinyinandroid::ExampleProxy::bindProxy, ::com::app::hanzitopinyin::hanzitopinyinandroid::ExampleProxy::dispose
+%%
